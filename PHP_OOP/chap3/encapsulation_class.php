@@ -37,7 +37,7 @@ class Customer extends User {
 }
 
 $u = new User;
-$u->firstName = 'Useer';
+$u->firstName = 'User';
 $u->lastName = 'Class';
 
 // echo $u->regID . "<br/>";
